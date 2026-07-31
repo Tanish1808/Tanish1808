@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am Tanish Shah 👋
 
 <!--
 **Tanish1808/Tanish1808** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
