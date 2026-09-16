@@ -1,24 +1,25 @@
 <div align="center">
 
-# ⚡ TANISH SHAH
-### `Full-Stack Developer • Backend Systems • Applied Machine Learning`
-#### 📍 Ahmedabad, India &nbsp;&bull;&nbsp; 🎓 IT Engineering @ LJ University
+<!-- HERO BANNER -->
+<a href="https://tanish1808.github.io/My_Portfolio/" target="_blank">
+  <img src="assets/banner.svg" width="100%" alt="Tanish Shah — Systems Architect & Full-Stack Developer" />
+</a>
 
 <br/><br/>
 
 <!-- PRIMARY ACTION DOCK -->
 <p align="center">
   <a href="https://tanish1808.github.io/My_Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_EXPLORE_LIVE_PORTFOLIO-00F5A0?style=for-the-badge&logo=googlechrome&logoColor=0B0F17&labelColor=111827" height="38" alt="Live Portfolio" />
+    <img src="https://img.shields.io/badge/🌐_EXPLORE_LIVE_PORTFOLIO-00F5A0?style=for-the-badge&logo=googlechrome&logoColor=070A10&labelColor=0F172A" height="38" alt="Live Portfolio" />
   </a>
   <a href="https://linkedin.com/in/tanish-shah-703489349" target="_blank">
-    <img src="https://img.shields.io/badge/LINKEDIN_PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" height="38" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN_PROFILE-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" height="38" alt="LinkedIn" />
   </a>
   <a href="mailto:tanishshah1808@gmail.com">
-    <img src="https://img.shields.io/badge/DIRECT_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" height="38" alt="Email" />
+    <img src="https://img.shields.io/badge/DIRECT_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" height="38" alt="Email" />
   </a>
   <a href="https://github.com/Tanish1808" target="_blank">
-    <img src="https://img.shields.io/badge/GITHUB_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" height="38" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB_SOURCE-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" height="38" alt="GitHub" />
   </a>
 </p>
 
@@ -28,7 +29,7 @@
   <a href="#-selected-work"><code>SELECTED WORK</code></a> &nbsp;&bull;&nbsp;
   <a href="#-technical-arsenal"><code>ARSENAL</code></a> &nbsp;&bull;&nbsp;
   <a href="#-currently-deepening-knowledge"><code>DEEPENING FOCUS</code></a> &nbsp;&bull;&nbsp;
-  <a href="#-engineering-mindset--how-i-build"><code>HOW I BUILD</code></a> &nbsp;&bull;&nbsp;
+  <a href="#-how-i-build"><code>HOW I BUILD</code></a> &nbsp;&bull;&nbsp;
   <a href="#-signature-endpoint"><code>CONNECT</code></a>
 </p>
 
@@ -41,27 +42,27 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>⚡ System Shell &bull; <code>tanish@core</code></h4>
+      <h4>⚡ Personal Command Center</h4>
       <pre><code>$ whoami
 Tanish Shah
 
 $ education
 B.E. Information Technology &bull; LJ University (2024–2028)
 
-$ disciplines
+$ core_disciplines
 Backend Architectures &bull; REST/Async APIs &bull; Applied ML
 
-$ core_ethos
-"Deterministic data flows, stateless security, and zero fluff."</code></pre>
+$ engineering_ethos
+"Deterministic execution, strict ACID schemas, zero fluff."</code></pre>
     </td>
     <td width="50%" valign="top">
-      <h4>📍 Engineering Overview</h4>
+      <h4>📍 Strategic Directives</h4>
       <p>
         I am an <strong>Information Technology Engineering student</strong> focusing on full-stack development and backend systems. I design software where stateless authentication, role-scoped route guards, and relational data integrity are fundamental design constraints from day one.
       </p>
       <p>
         <strong>Base:</strong> Ahmedabad, Gujarat, India<br/>
-        <strong>Active Projects:</strong> <a href="#-hero-project--ticket-tally">Ticket Tally</a> <em>(Render Cloud)</em> &bull; <a href="#-featured-system--civic-lens">Civic Lens</a> <em>(Distributed ML)</em>
+        <strong>Active Systems:</strong> <a href="#-hero-project--ticket-tally">Ticket Tally</a> <em>(Render Cloud)</em> &bull; <a href="#-featured-system--civic-lens">Civic Lens</a> <em>(Distributed ML)</em>
       </p>
     </td>
   </tr>
@@ -178,7 +179,7 @@ flowchart TD
 
 <div align="left">
   <a href="https://tanish1808.github.io/My_Portfolio/" target="_blank">
-    <img src="https://img.shields.io/badge/🚀_LAUNCH_LIVE_PORTFOLIO-00F5A0?style=for-the-badge&logo=googlechrome&logoColor=0B0F17" alt="Launch Live Portfolio" />
+    <img src="https://img.shields.io/badge/🚀_LAUNCH_LIVE_PORTFOLIO-00F5A0?style=for-the-badge&logo=googlechrome&logoColor=070A10" alt="Launch Live Portfolio" />
   </a>
 </div>
 
@@ -191,7 +192,7 @@ flowchart TD
 <table>
   <thead>
     <tr>
-      <th width="20%">Domain</th>
+      <th width="20%">Category</th>
       <th width="40%">Technologies</th>
       <th width="40%">Architectural Application</th>
     </tr>
@@ -201,8 +202,11 @@ flowchart TD
       <td><strong>💻 Languages</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        &nbsp;
         <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+        &nbsp;
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        &nbsp;
         <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
       </td>
       <td>Backend services, async event loops, OOP data structures, relational querying.</td>
@@ -211,17 +215,22 @@ flowchart TD
       <td><strong>⚙️ Backend & APIs</strong></td>
       <td>
         <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        &nbsp;
         <img src="https://img.shields.io/badge/Django_REST-092E20?style=flat-square&logo=django&logoColor=white" />
+        &nbsp;
         <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        &nbsp;
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
       </td>
-      <td>High-speed async inference endpoints, enterprise RBAC & ORM, lightweight services.</td>
+      <td>High-speed async inference endpoints, enterprise RBAC & ORM, lightweight microservices.</td>
     </tr>
     <tr>
       <td><strong>🗄️ Storage & Spatial</strong></td>
       <td>
         <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        &nbsp;
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+        &nbsp;
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
       </td>
       <td>ACID relational integrity, foreign key constraints, <code>2dsphere</code> spatial radius indexing.</td>
@@ -230,8 +239,10 @@ flowchart TD
       <td><strong>🧠 Applied ML & Vision</strong></td>
       <td>
         <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+        &nbsp;
         <img src="https://img.shields.io/badge/CNN_Embeddings-38BDF8?style=flat-square" />
-        <img src="https://img.shields.io/badge/pHash_Dedup-00E5A0?style=flat-square" />
+        &nbsp;
+        <img src="https://img.shields.io/badge/pHash_Dedup-00F5A0?style=flat-square" />
       </td>
       <td>Deep feature metric extraction, perceptual image hashing, cosine similarity search.</td>
     </tr>
@@ -239,8 +250,11 @@ flowchart TD
       <td><strong>🎨 Frontend Systems</strong></td>
       <td>
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black" />
+        &nbsp;
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+        &nbsp;
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        &nbsp;
         <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
       </td>
       <td>Component-driven modular architectures, responsive state-driven dashboards.</td>
@@ -249,8 +263,11 @@ flowchart TD
       <td><strong>🔧 DevOps & Tools</strong></td>
       <td>
         <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+        &nbsp;
         <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+        &nbsp;
         <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+        &nbsp;
         <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
       </td>
       <td>Version control workflows, REST contract test suites, containerized cloud hosting.</td>
@@ -289,7 +306,7 @@ flowchart TD
 
 ---
 
-### 💡 Engineering Mindset &bull; How I Build
+### 💡 How I Build
 
 ```text
 ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐     ┌─────────────────┐
@@ -326,16 +343,16 @@ flowchart TD
 <br/>
 
 <a href="https://tanish1808.github.io/My_Portfolio/" target="_blank">
-  <img src="https://img.shields.io/badge/🌐_EXPLORE_PORTFOLIO-00F5A0?style=for-the-badge&logo=googlechrome&logoColor=0B0F17&labelColor=111827" height="40" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/🌐_EXPLORE_PORTFOLIO-00F5A0?style=for-the-badge&logo=googlechrome&logoColor=070A10&labelColor=0F172A" height="40" alt="Portfolio" />
 </a>
 <a href="https://linkedin.com/in/tanish-shah-703489349" target="_blank">
-  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111827" height="40" alt="LinkedIn" />
+  <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0F172A" height="40" alt="LinkedIn" />
 </a>
 <a href="mailto:tanishshah1808@gmail.com">
-  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111827" height="40" alt="Email" />
+  <img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0F172A" height="40" alt="Email" />
 </a>
 <a href="https://github.com/Tanish1808" target="_blank">
-  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=111827" height="40" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0F172A" height="40" alt="GitHub" />
 </a>
 
 <br/><br/>
