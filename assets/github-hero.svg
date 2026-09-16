@@ -1,11 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 320" width="100%" height="100%">
   <defs>
+    <!-- Background Gradient -->
     <linearGradient id="heroBg" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#070A10" />
       <stop offset="50%" stop-color="#0F172A" />
       <stop offset="100%" stop-color="#070A10" />
     </linearGradient>
 
+    <!-- Accent Divider Line Gradient -->
     <linearGradient id="heroAccent" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38BDF8" stop-opacity="0" />
       <stop offset="25%" stop-color="#38BDF8" stop-opacity="0.9" />
@@ -13,29 +15,40 @@
       <stop offset="100%" stop-color="#00E5A0" stop-opacity="0" />
     </linearGradient>
 
+    <!-- Geometric Grid Pattern -->
     <pattern id="heroGrid" width="32" height="32" patternUnits="userSpaceOnUse">
       <path d="M 32 0 L 0 0 0 32" fill="none" stroke="#1E293B" stroke-width="0.75" stroke-opacity="0.55" />
     </pattern>
   </defs>
 
+  <!-- Canvas -->
   <rect width="1200" height="320" rx="14" fill="url(#heroBg)" stroke="#1E293B" stroke-width="1.2" />
   <rect width="1200" height="320" rx="14" fill="url(#heroGrid)" />
 
+  <!-- Top System Markers -->
   <text x="45" y="46" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" letter-spacing="1.5">// IT_ENGINEERING_CORE</text>
   <text x="1155" y="46" text-anchor="end" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" letter-spacing="1.5">AHMEDABAD, IN</text>
 
+  <!-- Center Status Chip -->
   <g transform="translate(475, 34)">
     <rect x="0" y="0" width="250" height="28" rx="14" fill="#0B132B" stroke="#1E293B" stroke-width="1" />
     <circle cx="18" cy="14" r="4" fill="#00E5A0" />
     <text x="32" y="18" fill="#00E5A0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" letter-spacing="1.5">SYSTEMS &bull; FULL-STACK</text>
   </g>
 
+  <!-- Name Heading -->
   <text x="600" y="146" text-anchor="middle" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Inter', Roboto, sans-serif" font-size="58" font-weight="800" letter-spacing="6">TANISH SHAH</text>
+
+  <!-- Role Subtitle -->
   <text x="600" y="188" text-anchor="middle" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="16" font-weight="600" letter-spacing="3.5">IT ENGINEERING STUDENT &bull; DEVELOPER &bull; BUILDER</text>
+
+  <!-- Statement -->
   <text x="600" y="224" text-anchor="middle" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400" letter-spacing="0.8">Building practical software, learning deeply, and turning ideas into working systems.</text>
 
+  <!-- Accent Divider -->
   <rect x="250" y="254" width="700" height="2" rx="1" fill="url(#heroAccent)" />
 
+  <!-- Bottom Markers -->
   <text x="45" y="294" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" letter-spacing="1">STACK: PYTHON &bull; JAVA &bull; SQL &bull; JS</text>
   <text x="1155" y="294" text-anchor="end" fill="#64748B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600" letter-spacing="1">STATUS: PURSUING_B.E.</text>
 </svg>
